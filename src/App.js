@@ -35,7 +35,7 @@ class App extends Component {
           <div className="page-inner">
             <Header></Header>
               <Switch>
-                <Route path="/wen-app" exact component={Home} />
+                <Route path="/wenapp" exact component={Home} />
                 <Route path="/about" exact component={About} />
                 <Route path="/project" exact component={ProjectPage} />
                 <Route path="/contact" exact component={Contact} />
