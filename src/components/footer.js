@@ -418,7 +418,7 @@ export default class Footer extends Component {
                         <div className="footer-wrap">
                             <div className="row">
                                 <div className="col-sm-8">
-                                    <p>© - 2020 Built with Pride by <Link to="/">WebExperts</Link>.</p>
+                                    <p>© - 2020 Built with Pride by <Link to="/wen-app">WebExperts</Link>.</p>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="social text-right">

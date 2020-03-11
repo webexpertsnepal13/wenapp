@@ -63,7 +63,7 @@ export default class Header extends Component {
                         <Row className="align-items-center">
                             <Col xs={8} md={3}>
                                 <div className="custom-logo">
-                                    <Link to="/">
+                                    <Link to="/wen-app">
                                         <svg version="1.1" id="Layer_1" x="0px" y="0px"
                                                  viewBox="0 0 1369.9 422">
                                             <g id="LOGO">
